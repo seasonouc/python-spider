@@ -1,7 +1,7 @@
 # -*- coding:utf-8 -*-
 from bs4 import BeautifulSoup
 from contextlib import closing
-import requests, json, time, re, os, sys, time
+import requests, json, time, re, 
 
 class DouYin(object):
 	def __init__(self):
